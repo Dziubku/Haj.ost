@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:cukierki1"
+    },
+    "facing=north": {
+      "model": "penis:cukierki1"
+    },
+    "facing=east": {
+      "model": "penis:cukierki1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:cukierki1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:cukierki1",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:wedliny1"
+    },
+    "facing=north": {
+      "model": "penis:wedliny1"
+    },
+    "facing=east": {
+      "model": "penis:wedliny1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:wedliny1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:wedliny1",
+      "y": 270
+    }
+  }
+}

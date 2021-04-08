@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "penis:blocks/ron",
+    "up": "penis:blocks/ron",
+    "north": "penis:blocks/yby2",
+    "east": "penis:blocks/ron",
+    "south": "penis:blocks/yby2",
+    "west": "penis:blocks/ron",
+    "particle": "penis:blocks/ron"
+  }
+}

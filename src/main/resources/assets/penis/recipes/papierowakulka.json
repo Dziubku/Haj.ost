@@ -1,0 +1,16 @@
+{
+  "group": "penis",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "penis:papierowakula",
+    "count": 32
+  }
+}

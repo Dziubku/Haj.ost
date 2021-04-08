@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/pita4",
+    "particle": "takeitamgupotki:blocks/pita4"
+  }
+}

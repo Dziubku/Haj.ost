@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "takeitamgupotki:blocks/concrete_red",
+    "top": "takeitamgupotki:blocks/concrete_red",
+    "side": "takeitamgupotki:blocks/concrete_red"
+  }
+}

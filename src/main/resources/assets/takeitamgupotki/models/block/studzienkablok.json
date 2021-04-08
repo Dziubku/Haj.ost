@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "takeitamgupotki:blocks/stone_andesite",
+    "up": "takeitamgupotki:blocks/stone_andesite",
+    "north": "takeitamgupotki:blocks/stone_andesite",
+    "east": "takeitamgupotki:blocks/stone_andesite",
+    "south": "takeitamgupotki:blocks/stone_andesite",
+    "west": "takeitamgupotki:blocks/stone_andesite",
+    "particle": "takeitamgupotki:blocks/stone_andesite"
+  }
+}

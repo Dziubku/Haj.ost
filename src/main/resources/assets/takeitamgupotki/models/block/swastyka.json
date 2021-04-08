@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "takeitamgupotki:blocks/glazed_terracotta_lime",
+    "up": "takeitamgupotki:blocks/glazed_terracotta_lime",
+    "north": "takeitamgupotki:blocks/glazed_terracotta_lime",
+    "east": "takeitamgupotki:blocks/glazed_terracotta_lime",
+    "south": "takeitamgupotki:blocks/glazed_terracotta_lime",
+    "west": "takeitamgupotki:blocks/glazed_terracotta_lime",
+    "particle": "takeitamgupotki:blocks/glazed_terracotta_lime"
+  }
+}

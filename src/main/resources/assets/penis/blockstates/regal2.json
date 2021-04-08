@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:regal2"
+    },
+    "facing=north": {
+      "model": "penis:regal2"
+    },
+    "facing=east": {
+      "model": "penis:regal2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:regal2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:regal2",
+      "y": 270
+    }
+  }
+}

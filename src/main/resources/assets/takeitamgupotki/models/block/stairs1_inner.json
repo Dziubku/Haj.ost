@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "takeitamgupotki:blocks/prismarine_bricks",
+    "top": "takeitamgupotki:blocks/prismarine_bricks",
+    "side": "takeitamgupotki:blocks/prismarine_bricks"
+  }
+}

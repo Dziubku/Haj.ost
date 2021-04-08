@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "takeitamgupotki:blocks/concrete_magenta",
+    "particle": "takeitamgupotki:blocks/concrete_magenta"
+  }
+}

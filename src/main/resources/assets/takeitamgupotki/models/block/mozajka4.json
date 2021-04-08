@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/mozajka4444444444444444444444444444444444",
+    "particle": "takeitamgupotki:blocks/mozajka4444444444444444444444444444444444"
+  }
+}

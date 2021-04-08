@@ -1,0 +1,110 @@
+{
+  "jessie_1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "penis:jessie_1",
+        "stream": false
+      }
+    ]
+  },
+  "jessie_2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "penis:jessie_2",
+        "stream": false
+      }
+    ]
+  },
+  "jessie_3": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "penis:jessie_3",
+        "stream": false
+      }
+    ]
+  },
+  "say_my_name": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "penis:say_my_name",
+        "stream": false
+      }
+    ]
+  },
+  "wolt": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "penis:wolt",
+        "stream": false
+      }
+    ]
+  },
+  "bekniecie": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "penis:bekniecie",
+        "stream": false
+      }
+    ]
+  },
+  "piwo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "penis:piwo",
+        "stream": false
+      }
+    ]
+  },
+  "picolo_zwykle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "penis:pikolo",
+        "stream": false
+      }
+    ]
+  },
+  "flet_magiczny_zwykle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "penis:magicznej_flet",
+        "stream": false
+      }
+    ]
+  },
+  "flet_zwykle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "penis:flet",
+        "stream": false
+      }
+    ]
+  },
+  "bicie_fletem": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "penis:bicie_fletem",
+        "stream": false
+      }
+    ]
+  },
+  "zyganie_chwala_tobie_panie": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "penis:kure",
+        "stream": false
+      }
+    ]
+  }
+}

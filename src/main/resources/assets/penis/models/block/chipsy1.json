@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "penis:blocks/drewno",
+    "up": "penis:blocks/drewno",
+    "north": "penis:blocks/chipsy1",
+    "east": "penis:blocks/drewno",
+    "south": "penis:blocks/chipsy1",
+    "west": "penis:blocks/drewno",
+    "particle": "penis:blocks/drewno"
+  }
+}

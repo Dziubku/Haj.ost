@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:napoje1"
+    },
+    "facing=north": {
+      "model": "penis:napoje1"
+    },
+    "facing=east": {
+      "model": "penis:napoje1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:napoje1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:napoje1",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "takeitamgupotki:studzienkablok"
+    },
+    "facing=south": {
+      "model": "takeitamgupotki:studzienkablok"
+    },
+    "facing=north": {
+      "model": "takeitamgupotki:studzienkablok"
+    },
+    "facing=east": {
+      "model": "takeitamgupotki:studzienkablok",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "takeitamgupotki:studzienkablok",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "takeitamgupotki:studzienkablok",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "takeitamgupotki:studzienkablok",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

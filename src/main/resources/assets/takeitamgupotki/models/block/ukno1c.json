@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/ukno1c",
+    "particle": "takeitamgupotki:blocks/ukno1c"
+  }
+}

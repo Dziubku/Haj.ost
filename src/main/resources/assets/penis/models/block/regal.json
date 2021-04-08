@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "penis:blocks/concrete_silver",
+    "up": "penis:blocks/concrete_silver",
+    "north": "penis:blocks/regal",
+    "east": "penis:blocks/regal",
+    "south": "penis:blocks/regal",
+    "west": "penis:blocks/regal",
+    "particle": "penis:blocks/concrete_silver"
+  }
+}

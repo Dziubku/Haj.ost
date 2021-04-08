@@ -1,0 +1,38 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "proca",
+    "customModelName": "Normal",
+    "name": "Proca",
+    "creativeTab": {
+      "value": "CUSTOM:CIPA"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Kamyczki"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "block.gravel.place"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Kamyczki"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onRangedItemUsed": {
+      "name": "ProcaRangedItemUsed"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:okno6"
+    },
+    "facing=north": {
+      "model": "penis:okno6"
+    },
+    "facing=east": {
+      "model": "penis:okno6",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:okno6",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:okno6",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "penis:okno6",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "penis:okno6",
+      "x": 90
+    }
+  }
+}

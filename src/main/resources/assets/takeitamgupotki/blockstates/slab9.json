@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "takeitamgupotki:slab9"
+    },
+    "half=top,variant=default": {
+      "model": "takeitamgupotki:slab9_top"
+    }
+  }
+}

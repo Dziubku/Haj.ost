@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "takeitamgupotki:blocks/concrete_light_blue",
+    "particle": "takeitamgupotki:blocks/concrete_light_blue"
+  }
+}

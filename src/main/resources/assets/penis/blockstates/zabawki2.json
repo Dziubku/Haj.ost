@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:zabawki2"
+    },
+    "facing=north": {
+      "model": "penis:zabawki2"
+    },
+    "facing=east": {
+      "model": "penis:zabawki2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:zabawki2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:zabawki2",
+      "y": 270
+    }
+  }
+}

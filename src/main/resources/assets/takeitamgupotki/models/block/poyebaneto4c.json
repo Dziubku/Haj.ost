@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/poyebaneto4c",
+    "particle": "takeitamgupotki:blocks/poyebaneto4c"
+  }
+}

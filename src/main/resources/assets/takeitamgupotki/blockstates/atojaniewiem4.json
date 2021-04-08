@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "takeitamgupotki:atojaniewiem4"
+    },
+    "facing=north": {
+      "model": "takeitamgupotki:atojaniewiem4"
+    },
+    "facing=east": {
+      "model": "takeitamgupotki:atojaniewiem4",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "takeitamgupotki:atojaniewiem4",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "takeitamgupotki:atojaniewiem4",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "takeitamgupotki:atojaniewiem4",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "takeitamgupotki:atojaniewiem4",
+      "x": 90
+    }
+  }
+}

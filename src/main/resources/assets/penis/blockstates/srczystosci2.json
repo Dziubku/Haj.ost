@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:srczystosci2"
+    },
+    "facing=north": {
+      "model": "penis:srczystosci2"
+    },
+    "facing=east": {
+      "model": "penis:srczystosci2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:srczystosci2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:srczystosci2",
+      "y": 270
+    }
+  }
+}

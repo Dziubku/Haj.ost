@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "takeitamgupotki:poyebaneto5a"
+    },
+    "facing=north": {
+      "model": "takeitamgupotki:poyebaneto5a"
+    },
+    "facing=east": {
+      "model": "takeitamgupotki:poyebaneto5a",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "takeitamgupotki:poyebaneto5a",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "takeitamgupotki:poyebaneto5a",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "takeitamgupotki:poyebaneto5a",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "takeitamgupotki:poyebaneto5a",
+      "x": 90
+    }
+  }
+}

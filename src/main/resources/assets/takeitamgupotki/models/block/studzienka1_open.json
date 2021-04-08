@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_open",
+  "textures": {
+    "texture": "takeitamgupotki:blocks/qwrty",
+    "particle": "takeitamgupotki:blocks/qwrty"
+  }
+}

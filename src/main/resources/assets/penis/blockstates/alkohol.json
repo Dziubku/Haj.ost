@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:alkohol"
+    },
+    "facing=north": {
+      "model": "penis:alkohol"
+    },
+    "facing=east": {
+      "model": "penis:alkohol",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:alkohol",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:alkohol",
+      "y": 270
+    }
+  }
+}

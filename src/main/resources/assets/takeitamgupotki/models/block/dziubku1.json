@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/glass_green",
+    "particle": "takeitamgupotki:blocks/glass_green"
+  }
+}

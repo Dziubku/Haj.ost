@@ -1,0 +1,19 @@
+{
+  "group": "penis",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "penis:fenyloaceton"
+    },
+    {
+      "item": "penis:radypanaww"
+    },
+    {
+      "item": "penis:metyloamina"
+    }
+  ],
+  "result": {
+    "item": "penis:metamfetamina",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:przybory1"
+    },
+    "facing=north": {
+      "model": "penis:przybory1"
+    },
+    "facing=east": {
+      "model": "penis:przybory1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:przybory1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:przybory1",
+      "y": 270
+    }
+  }
+}

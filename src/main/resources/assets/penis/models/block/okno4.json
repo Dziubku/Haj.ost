@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "penis:blocks/okno1.4",
+    "particle": "penis:blocks/okno1.4"
+  }
+}

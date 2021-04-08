@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/gupiababa1",
+    "particle": "takeitamgupotki:blocks/gupiababa1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "penis:chipsy2"
+    },
+    "facing=north": {
+      "model": "penis:chipsy2"
+    },
+    "facing=east": {
+      "model": "penis:chipsy2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "penis:chipsy2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "penis:chipsy2",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "takeitamgupotki:blocks/concrete_purple",
+    "particle": "takeitamgupotki:blocks/concrete_purple"
+  }
+}

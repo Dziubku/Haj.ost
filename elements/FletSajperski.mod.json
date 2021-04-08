@@ -1,0 +1,38 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "snajpa",
+    "customModelName": "Normal",
+    "name": "Flet Sajperski",
+    "creativeTab": {
+      "value": "CUSTOM:CIPA"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Papierowakula"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "CUSTOM:bicie_fletem"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 0.1,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Nuta"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "kindats_keram.png",
+    "onRangedItemUsed": {
+      "name": "FletSajperskiRangedItemUsedCOOLDAWN"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "flecik_1",
+    "customModelName": "Normal",
+    "name": "Flet Fcale Nje Magicznuej",
+    "creativeTab": {
+      "value": "CUSTOM:CIPA"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.5,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 7.0,
+    "specialInfo": [
+      "Polecany dla dzieci w wieku przedszkolnym."
+    ],
+    "hasGlow": false,
+    "onRightClickedInAir": {
+      "name": "Flet1_klik"
+    },
+    "onEntityHitWith": {
+      "name": "Flet1_atak"
+    }
+  }
+}

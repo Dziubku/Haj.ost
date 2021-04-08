@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "takeitamgupotki:blocks/prismarine_bricks",
+    "particle": "takeitamgupotki:blocks/prismarine_bricks"
+  }
+}

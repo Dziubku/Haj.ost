@@ -4,6 +4,881 @@
   },
   "mod_elements": [
     {
+      "name": "Swastyka",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Niesfornik",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atakietamgupotki",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Owocniesforny",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gowno",
+      "type": "plant",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab2",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab1",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab3",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab4",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab5",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab6",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab7",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab8",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab9",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab10",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab11",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab12",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab13",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab14",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab15",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab16",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Slab17",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs1",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs2",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs3",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs4",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs5",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs6",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs7",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs8",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs9",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs10",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs11",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs12",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs13",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs14",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs15",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs16",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stairs17",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Studzienka",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Studzienka1",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Studzienkablok",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Studzienkablok1",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gupiababa1",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gupiababa2",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gupiababa3",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gupiababa4",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dziubku1",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dziubku2",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dziubku3",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dziubku4",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Niesfornikjeden",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HWDP1",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HWDP2",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HWDP3",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HWDP4",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HWDP5",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HWDP6",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Golemb",
+      "type": "mob",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1,
+        "1": 2
+      }
+    },
+    {
+      "name": "Fence1",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence3",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence4",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence5",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence6",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence7",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence8",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence9",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence10",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence11",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence12",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence13",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence14",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence15",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence16",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fence17",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Mozajka1",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Mozajka2",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Mozajka3",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Mozajka4",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pita1",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pita2",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pita3",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pita4",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atojaniewiem1",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atojaniewiem2",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atojaniewiem3",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atojaniewiem4",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto1a",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto1b",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto1c",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto2a",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto2b",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto2c",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto3a",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto3b",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto3c",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto4a",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto4b",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto4c",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto5a",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto5b",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Poyebaneto5c",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ukno1a",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ukno1b",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ukno1c",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ukno2a",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ukno2b",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ukno2c",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "golembkurwa",
+      "file": "golemb",
+      "category": "master"
+    }
+    {
       "name": "Fenyloaceton",
       "type": "item",
       "sortid": 1,
@@ -769,6 +1644,114 @@
   ],
   "language_map": {
     "en_us": {
+      "tile.poyebaneto4a.name": "poyebaneto4a",
+      "tile.stairs10.name": "Stairs10",
+      "tile.slab15.name": "Slab15",
+      "tile.fence5.name": "Fence5",
+      "tile.gupiababa3.name": "Gupiababa1",
+      "tile.slab8.name": "Slab8",
+      "tile.fence4.name": "Fence4",
+      "tile.hwdp6.name": "HWDP1",
+      "tile.poyebaneto1a.name": "poyebaneto1a",
+      "item.niesfornik.name": "Niesfornik",
+      "tile.fence10.name": "Fence10",
+      "tile.slab14.name": "Slab14",
+      "tile.slab7.name": "Slab7",
+      "tile.gupiababa2.name": "Gupiababa1",
+      "tile.stairs6.name": "Stairs6",
+      "tile.atojaniewiem2.name": "atojaniewiem2",
+      "tile.pita4.name": "pita4",
+      "tile.poyebaneto2c.name": "poyebaneto2c",
+      "tile.hwdp5.name": "HWDP1",
+      "tile.studzienkablok1.name": "Studzienkablok1",
+      "tile.stairs11.name": "Stairs11",
+      "tile.ukno2b.name": "ukno2b",
+      "tile.poyebaneto4b.name": "poyebaneto4b",
+      "tile.poyebaneto5c.name": "poyebaneto5c",
+      "tile.slab9.name": "Slab9",
+      "tile.stairs8.name": "Stairs8",
+      "tile.gupiababa4.name": "Gupiababa1",
+      "tile.stairs5.name": "Stairs5",
+      "tile.slab6.name": "Slab6",
+      "tile.poyebaneto1b.name": "poyebaneto1b",
+      "itemGroup.tabatakietamgupotki": "Atakietamgupotki",
+      "tile.fence11.name": "Fence10",
+      "tile.slab12.name": "Slab12",
+      "tile.fence12.name": "Fence12",
+      "tile.stairs3.name": "Stairs3",
+      "tile.studzienkablok.name": "Studzienkablok",
+      "tile.poyebaneto1c.name": "poyebaneto1c",
+      "tile.stairs9.name": "Stairs9",
+      "tile.hwdp4.name": "HWDP1",
+      "tile.fence8.name": "Fence8",
+      "tile.dziubku3.name": "Gupiababa1",
+      "tile.fence1.name": "Fence2",
+      "tile.swastyka.name": "Swastyka",
+      "tile.slab11.name": "Slab11",
+      "tile.dziubku2.name": "Gupiababa1",
+      "tile.fence7.name": "Fence7",
+      "tile.poyebaneto2b.name": "poyebaneto2b",
+      "tile.mozajka4.name": "mozajka4",
+      "tile.atojaniewiem3.name": "atojaniewiem3",
+      "tile.slab4.name": "Slab4",
+      "tile.slab17.name": "Slab17",
+      "tile.stairs13.name": "Stairs13",
+      "tile.pita3.name": "pita3",
+      "tile.poyebaneto5a.name": "poyebaneto5a",
+      "tile.ukno2a.name": "ukno2a",
+      "tile.fence15.name": "Fence15",
+      "tile.hwdp1.name": "HWDP1",
+      "tile.mozajka2.name": "mozajka2",
+      "tile.slab3.name": "Slab3",
+      "tile.poyebaneto3b.name": "poyebaneto3b",
+      "tile.slab10.name": "Slab10",
+      "tile.poyebaneto3c.name": "poyebaneto3c",
+      "tile.hwdp2.name": "HWDP1",
+      "tile.fence16.name": "Fence16",
+      "tile.mozajka1.name": "mozajka1",
+      "tile.stairs16.name": "Stairs16",
+      "tile.owocniesforny.name": "Owocniesforny",
+      "tile.ukno1b.name": "ukno1b",
+      "tile.slab1.name": "Slab1",
+      "tile.poyebaneto3a.name": "poyebaneto3a",
+      "tile.pita1.name": "pita1",
+      "tile.studzienka1.name": "Studzienka1",
+      "tile.ukno1a.name": "ukno1a",
+      "tile.stairs14.name": "Stairs14",
+      "tile.stairs2.name": "Stairs2",
+      "tile.stairs17.name": "Stairs17",
+      "tile.fence17.name": "Fence17",
+      "tile.hwdp3.name": "HWDP1",
+      "tile.niesfornikjeden.name": "Niesfornikjeden",
+      "entity.golemb.name": "Golemb",
+      "tile.fence14.name": "Fence14",
+      "tile.studzienka.name": "Studzienka",
+      "tile.gowno.name": "Gowno",
+      "tile.slab5.name": "Slab5",
+      "tile.poyebaneto2a.name": "poyebaneto2a",
+      "tile.gupiababa1.name": "Gupiababa1",
+      "tile.ukno2c.name": "ukno2c",
+      "tile.fence13.name": "Fence13",
+      "tile.poyebaneto5b.name": "poyebaneto5b",
+      "tile.dziubku1.name": "Gupiababa1",
+      "tile.fence3.name": "Fence3",
+      "tile.fence6.name": "Fence6",
+      "tile.stairs4.name": "Stairs4",
+      "tile.stairs7.name": "Stairs7",
+      "tile.slab16.name": "Slab16",
+      "tile.slab13.name": "Slab13",
+      "tile.stairs15.name": "Stairs15",
+      "tile.mozajka3.name": "mozajka3",
+      "tile.stairs12.name": "Stairs12",
+      "tile.pita2.name": "pita2",
+      "tile.atojaniewiem4.name": "atojaniewiem4",
+      "tile.ukno1c.name": "ukno1c",
+      "tile.poyebaneto4c.name": "poyebaneto4c",
+      "tile.slab2.name": "Slab2",
+      "tile.stairs1.name": "Stairs1",
+      "tile.atojaniewiem1.name": "atojaniewiem1",
+      "tile.dziubku4.name": "Gupiababa1",
+      "tile.fence9.name": "Fence9"
       "item.metyloamina.name": "Metyloamina",
       "item.puszka.name": "Puszka",
       "tile.ryby1.name": "Blok ryb 1",
@@ -777,42 +1760,42 @@
       "item.suka.name": "Suka",
       "tile.zabawki1.name": "Blok zabawek 1",
       "item.celownik.name": "Celownik",
-      "tile.srczystosci2.name": "Blok œr. czystoœci 2",
+      "tile.srczystosci2.name": "Blok Âœr. czystoÂœci 2",
       "item.fletpicolo.name": "Flet Picolo",
       "tile.okno2.name": "Okno2",
       "item.papierowakula.name": "Papierowa kulka",
       "item.fletsajperski.name": "Flet Sajperski",
-      "tile.napoje1.name": "Blok napojów",
+      "tile.napoje1.name": "Blok napojÃ³w",
       "item.flet.name": "Flet Fcale Nje Magicznuej",
       "item.prastelina.name": "Prastelina",
-      "tile.cukierki2.name": "Blok cukierków 2",
+      "tile.cukierki2.name": "Blok cukierkÃ³w 2",
       "tile.okno5.name": "Okno5",
       "item.nuta.name": "Nuta",
-      "tile.wedliny1.name": "Blok wêdlin 1",
+      "tile.wedliny1.name": "Blok wÃªdlin 1",
       "tile.chleb1.name": "Blok chleba 1",
       "item.kamyczki.name": "Kamyczek",
       "item.metamfetamina.name": "Metamfetamina",
-      "tile.wedliny2.name": "Blok wêdlin 2",
-      "item.fletzpotencja.name": "Flet z potencja³em",
+      "tile.wedliny2.name": "Blok wÃªdlin 2",
+      "item.fletzpotencja.name": "Flet z potencjaÂ³em",
       "tile.ryby2.name": "Blok ryb 2",
-      "tile.srczystosci1.name": "Blok œr. czystoœci 1",
+      "tile.srczystosci1.name": "Blok Âœr. czystoÂœci 1",
       "tile.okno6.name": "Okno6",
       "item.fletmagiczny.name": "Magicznej Flet",
-      "tile.chipsy2.name": "Blok chipsów 2",
-      "tile.przybory2.name": "Blok przyborów 2",
-      "tile.regal2.name": "Rega³ 1",
+      "tile.chipsy2.name": "Blok chipsÃ³w 2",
+      "tile.przybory2.name": "Blok przyborÃ³w 2",
+      "tile.regal2.name": "RegaÂ³ 1",
       "item.radypanaww.name": "Rady Pana WW",
       "itemGroup.tabcipa": "Niesfornik ",
       "tile.zabawki2.name": "Blok zabawek 2",
-      "tile.regal.name": "Rega³ 1",
+      "tile.regal.name": "RegaÂ³ 1",
       "item.mocnyfull.name": "Mocny Full",
       "item.cebuliony.name": "Cebuliony",
-      "tile.przybory1.name": "Blok przyborów 1",
+      "tile.przybory1.name": "Blok przyborÃ³w 1",
       "tile.chleb2.name": "Blok chleba 2",
       "item.proca.name": "Proca",
-      "tile.cukierki1.name": "Blok cukierków 1",
+      "tile.cukierki1.name": "Blok cukierkÃ³w 1",
       "tile.okno4.name": "Okno4",
-      "tile.chipsy1.name": "Blok chipsów 1",
+      "tile.chipsy1.name": "Blok chipsÃ³w 1",
       "tile.okno1.name": "Okno1",
       "tile.okna3.name": "Okno3"
     }

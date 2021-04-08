@@ -869,15 +869,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    }
-  ],
-  "variable_elements": [],
-  "sound_elements": [
-    {
-      "name": "golembkurwa",
-      "file": "golemb",
-      "category": "master"
-    }
+    },
     {
       "name": "Fenyloaceton",
       "type": "item",
@@ -1581,6 +1573,11 @@
   ],
   "variable_elements": [],
   "sound_elements": [
+   {
+      "name": "golembkurwa",
+      "file": "golemb",
+      "category": "master"
+    },
     {
       "name": "jessie_1",
       "file": "jessie_1",
